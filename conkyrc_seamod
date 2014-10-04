@@ -22,10 +22,10 @@ double_buffer yes
 no_buffers yes
 text_buffer_size 2048
 
-gap_x 30
+gap_x 50
 gap_y 70
-minimum_size 300 900
-maximum_width 350
+minimum_size 280 900
+maximum_width 280
 own_window yes
 own_window_type override
 own_window_transparent yes
