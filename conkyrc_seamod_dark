@@ -55,13 +55,13 @@ default_color FFFFFF
 color1 DDDDDD
 color2 AAAAAA
 color3 888888
-# Light blue
-color4 00CDCD
+# white
+color4 ffffff
 # Green
 color5 77B753
 
 # Loading lua script for drawning rings
-lua_load ~/.conky/seamod/seamod_rings.lua
+lua_load ~/.conky/seamod/seamod_rings_dark.lua
 lua_draw_hook_post main
 
 ## System information using conky capabilities
